@@ -55,6 +55,41 @@ This index tracks that category the way self-driving was tracked: by **autonomy 
 
 ---
 
+## 📖 How to read the levels
+
+The core question at every level is **who executes, and who decides** — headcount is deliberately not the question.
+
+**L2 — Function autopilot** *(Medvi, Base44)*. Whole functions run end-to-end on AI: Medvi's ad creative is Midjourney/Runway, support is a chatbot, analytics are AI, the site was AI-built. But *the company* is not autonomous — Matthew Gallagher is the operating system connecting those functions, making every cross-functional call daily. The proof is in the NYT article itself: he tweaked the site before a hike, it broke, and the business lost ~200 customers because **no agent could decide to fix it**. That's the signature of L2 — remove the human for a week and the company degrades. Base44 is the same shape: AI built the product; the founder ran the business.
+
+**L3 — Operational autopilot** *(Polsia, Nanocorp, Boardy)*. Agents run *across* functions — operations, support, even fundraising — and the human's job shrinks to steering. Polsia is the reference case: founder-reported ~80% of operations agent-run, a live dashboard showing the AI working on every customer's company, and the AI reportedly running much of its own $30M raise. Boardy earned L3 through a stunt that doubles as evidence: investors wired money without ever seeing a deck or speaking to a human — the AI *was* the counterparty. Why not L4: the founder is still in the loop **daily**, and everything is founder-reported (Grade C at best). L3 is where claims and evidence currently max out.
+
+**L4 — Goal-level autopilot** *(vacant — claimed by Egbe)*. Human sets goals and signs the legal papers; AI operates the company day to day. Egbe's pitch is literally this sentence — "You found it. AI runs it." — and founder Nikolay Vyahhi's 100 pre-launch AI-run e-commerce startups on Mac minis is the most interesting *pre-evidence* for L4 anywhere. But no one has independently observed a company running for weeks without human operational intervention while serving real customers. That's the promotion test, and it's why L4 sits empty with Egbe on the Watchlist rather than in the Index.
+
+**L5 — Full autonomy** *(vacant, structurally)*. Add capital allocation: the AI decides what to build next, whom to hire, where the profits go. Not just unproven — currently *legally impossible* (agents can't sign contracts or own assets; that's partly what enablers like Sapiom exist to route around). L5 is the finish line the whole index points at.
+
+### The teams angle
+
+Two things the levels reveal that a headcount column hides:
+
+**Small ≠ autonomous, and autonomous ≠ small.** Medvi (2 humans) sits *below* Polsia (1 human) on the ladder — fewer humans didn't mean more autonomy, because the human works constantly and the AI never decides. Inverted: Midjourney runs ~$500M revenue on ~60 humans — spectacular *lean*, but it's an AI company run by humans, which is exactly why it's context and not in the Index. The [Lean AI leaderboard](https://github.com/henrythe9th/official-lean-ai-native-leaderboard) measures leverage; these levels measure who runs it. That's the category boundary.
+
+**The "team" is really a four-layer stack**, and the levels describe which layer holds the middle of the org chart:
+
+| Layer | What it is | Medvi example |
+|---|---|---|
+| Core humans | Payroll | 2 brothers |
+| Shadow humans | Contractors & partners' staff | 7 contract account managers, 2 contract engineers, agencies — plus the doctors inside the rails |
+| Rails | Departments bought as APIs | CareValidate, OpenLoop Health |
+| Agents | The execution layer that grows with each level | Ads, support, analytics, code |
+
+As a company climbs, agents eat the org chart **from the middle out**: execution first (L2), then coordination (L3), then operation (L4), then allocation (L5). Humans persist at two ends — the *top* (goals, signatures, accountability, which even L5 can't shed legally) and the *edges*, where they come back as a premium: Medvi added human account managers because retention needed relationship memory, and RentAHuman exists because agents need physical hands.
+
+> **The org chart evolution:** L2 = human hub with agent spokes → L3 = agent mesh with a human governor → L4 = human chairman, AI CEO → L5 = human shareholder.
+
+So the scouting question for each company isn't "how few people?" — it's **"which layers of the org chart have flipped from human to agent, and can they prove it?"** A level jump with evidence is the news event; the shadow-headcount disclosure is the honesty layer that keeps the index credible.
+
+---
+
 ## 🔭 Watchlist — claims before evidence
 
 *Passes the autonomy bar, no citable economics yet. Promotion requires a Grade C signal or better.*
