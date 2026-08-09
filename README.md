@@ -1,3 +1,7 @@
+<!-- GENERATED FILE — do not edit by hand.
+     Source of truth: autopilotbiz/lib/data.ts (autopilot fields, switchLog, caseStudies).
+     Regenerate with `npm run gen:index` in the autopilotbiz repo. -->
+
 # 🛩️ The Autopilot Index
 
 **Tracking companies run by AI — not AI companies.**
@@ -45,11 +49,11 @@ This index tracks that category the way self-driving was tracked: by **autonomy 
 
 | Company | Level | Evidence | Humans | Revenue | The story | Flags |
 |---|---|---|---|---|---|---|
-| [Polsia](https://polsia.com) | **L3** | C | **1** | ~$10M run rate | AI runs the company while the founder sleeps; raised $30M at $250M with zero employees. Cut its $1.2M/mo Anthropic bill to ~$100K via open-source inference. | Figures founder-reported; margin math disputed |
-| [Nanocorp](https://nanocorp.ai) | **L3** | D | **1** | $193K claimed | One prompt → one company, zero code. YC-backed solo founder. | Revenue claim disputed by independent review |
+| [Polsia](https://polsia.com) | **L3** | C | **1** | ~$10M | AI runs the company while the founder sleeps; raised $30M at $250M with zero employees. Cut its $1.2M/mo Anthropic bill to ~$100K via open-source inference. | Figures founder-reported; margin math disputed |
 | [Boardy](https://boardy.ai) | **L3** | C | — | — | AI superconnector that networks on your behalf — raised its round without investors seeing a deck or speaking to a human. | — |
-| [Medvi](https://medvi.io) | **L2** | **A** | **2** | **$401M** (2025, verified) → $1.8B 2026 track | GLP-1 telehealth built in 2 months for $20K. 16.2% net profit with a payroll of two brothers — the NYT audited the books. Runs on "telehealth-in-a-box" rails. | FDA warning letter (Feb 2026); anti-spam class action (Mar 2026); AI-fake-doctor ads exposed |
-| [Base44](https://base44.com) | **L2** | B | 9 | $3.5M at exit | Solo-owned vibe-coding platform, sold to Wix for **$80M cash** at 6 months old. The category's first clean exit. | — |
+| [Nanocorp](https://www.nanocorp.so) | **L3** | D | **1** | $193K (claimed) | One prompt → one company, zero code. YC-backed solo founder. | Revenue claim disputed by independent review |
+| [Medvi](https://medvi.io) | **L2** | **A** | **2** | $401M 2025 sales, 16.2% net (NYT-verified); tracking $1.8B in 2026 | GLP-1 telehealth built in 2 months for $20K. 16.2% net profit with a payroll of two brothers — the NYT audited the books. Runs on "telehealth-in-a-box" rails. | FDA warning letter (Feb 2026); anti-spam class action (Mar 2026); AI-fake-doctor ads exposed |
+| [Base44](https://base44.com) | **L2** | B | **9** | $3.5M at exit → $150M under Wix | Solo-owned vibe-coding platform, sold to Wix for $80M cash at 6 months old. The category's first clean exit. | — |
 
 *Revenue-per-human champion: Medvi at ~$200M/human. Purest autopilot story: Polsia at 1 human.*
 
@@ -96,10 +100,10 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 
 | Company | Claimed level | The claim | Why we're watching |
 |---|---|---|---|
-| [Egbe](https://egbe.ai) | **L4** | "The zero-employee company. You found it. AI runs it." — AI co-founder ships the product, wires Stripe, runs ads | Founder Nikolay Vyahhi (Stepik) told the MIT AI Summit he'd pre-tested with **100 AI-run e-commerce startups on a few Mac minis**. Claims 8× token growth in a month on GLM-5.2 (self-reported). |
-| [Cofounder](https://cofounder.co) | L3 | "Run an entire company with AI" | USV-backed; thesis-defining but pre-metrics |
-| [Atoms](https://atoms.dev) | L3 | AI business team that builds, deploys **and markets** your product | Products shipping; no economics disclosed |
-| [Caffeine](https://caffeine.ai) | L3 | "The self-writing internet" | Pre-metrics |
+| [Egbe](https://egbe.ai) | **L4** | "The zero-employee company. You found it. AI runs it." — AI co-founder ships the product, wires Stripe, runs ads | Founder Nikolay Vyahhi (Stepik) pre-tested with 100 AI-run e-commerce startups on Mac minis; claims 8× token growth in a month on GLM-5.2 (self-reported). |
+| [Cofounder](https://cofounder.co) | **L3** | "Run an entire company with AI" | USV-backed; thesis-defining but pre-metrics |
+| [Caffeine](https://caffeine.ai) | **L3** | "The self-writing internet" | Pre-metrics |
+| [Atoms](https://atoms.dev) | **L3** | AI business team that builds, deploys and markets your product | Products shipping; no economics disclosed |
 
 ---
 
@@ -109,7 +113,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 
 | Company | What was claimed | What happened |
 |---|---|---|
-| [11x](https://11x.ai) | AI SDRs replacing headcount; $10M ARR | TechCrunch investigation: customers claimed that it didn't have; ARR nearer $3M; CEO stepped down. Still operating. |
+| [11x](https://11x.ai) | AI SDRs replacing headcount; $10M ARR claimed | TechCrunch investigation: claimed customers it didn't have; ARR nearer $3M; CEO stepped down. Still operating. |
 
 *(Medvi carries flags in the Index above — verified revenue **and** an FDA letter can both be true.)*
 
@@ -122,7 +126,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 | Experiment | Agent | The legwork | Cost |
 |---|---|---|---|
 | [Guinndex](https://guinndex.ai) | "Rachel" (ElevenLabs voice + Twilio) | Phoned **3,000+ Irish pubs** for the price of a pint. 2,052 answered; national average €5.95; at least one pub cut its price after. Now a living CPI for the pint. | ~€200 |
-| [Le Baguette Index](https://lebaguetteindex.fr) | "Brigitte" | **11,190 calls** to 5,173 French bakeries for the price of a baguette tradition (avg €1.25). Most bakers never noticed she was a machine. | ~€30 |
+| [Le Baguette Index](https://lebaguetteindex.fr/) | "Brigitte" | **11,190 calls** to 5,173 French bakeries for the price of a baguette tradition (avg €1.25). Most bakers never noticed she was a machine. | ~€30 |
 
 ---
 
@@ -134,20 +138,20 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 
 | Company | What it enables | Humans | Signal |
 |---|---|---|---|
-| [RentAHuman](https://rentahuman.ai) | AI agents **hire humans** for physical-world tasks (MCP + escrow bounties) | 3 | YC-backed; 500K+ registered humans claimed |
 | [Payman](https://paymanai.com) | AI that pays humans — agent-initiated payouts | 15 | ~$770K est. revenue |
+| [RentAHuman](https://rentahuman.ai) | AI agents hire humans for physical-world tasks (MCP + escrow bounties) | 3 | YC-backed; 500K+ registered humans claimed |
 
 ### The stack behind the index
 
 | Layer | What it does | Tools (used by) |
 |---|---|---|
-| **Intelligence** | The models that think, plan, argue | Claude (Polsia), OpenAI (Polsia), **Z.ai GLM-5.2** (Egbe), Sciforium open-source inference (Polsia), Atoms, Cursor |
-| **Agent infra** | Voices, browsers, hands & compute | ElevenLabs (Guinndex, Baguette), RentAHuman (agents via MCP) |
-| **Code & deploy** | Where agent-written code ships | GitHub (Polsia, Cofounder, Atoms), Vercel |
-| **Data & backend** | State for agent-built apps | Supabase & friends |
-| **Regulated rails** | Doctors, pharmacies & compliance as an API | CareValidate (Medvi), OpenLoop Health (Medvi)* |
-| **Payments** | How autopilot businesses get paid | Stripe (Medvi, Egbe), Sapiom agent-spend infra (Polsia) |
-| **Distribution** | Ads, email, phone — reaching the real world | Twilio (Guinndex), Postmark (Polsia) |
+| **Intelligence** | The models that think, plan, and argue | Claude (Anthropic) (Polsia), OpenAI (Polsia), Cursor (Hackathon teams), Atoms (One-person companies), Sciforium (Polsia), Z.ai (GLM-5.2) (Egbe) |
+| **Agent infrastructure** | Inboxes, browsers, voices & compute for agents | AgentMail (YC S25) (Polsia), Anchor Browser (Polsia), Blaxel (YC X25) (Polsia), MCP (Model Context Protocol) (Wordware (Sauna), Cofounder), RentAHuman (Agents via MCP (e.g. Claude)), ElevenLabs (Guinndex, Le Baguette Index) |
+| **Code & deployment** | Where agent-written code lives and ships | Vercel (Nanocorp, Cofounder), Render (Polsia), GitHub (Polsia, Cofounder, Atoms), AWS (Polsia) |
+| **Databases & backend** | State for a thousand agent-built apps | Neon (Polsia), Supabase (Cofounder) |
+| **Regulated-industry rails** | Doctors, pharmacies & compliance as an API — how one human sells in regulated markets | CareValidate (Medvi), OpenLoop Health (Medvi) |
+| **Payments & money rails** | How autopilot businesses actually get paid | Sapiom (Polsia), Stripe (Polsia, Nanocorp, Cofounder, Feltsense, Atoms) |
+| **Distribution & comms** | Ads, email, phone — reaching the real world | Meta Ads (Polsia, Nanocorp, Feltsense), Twilio (Guinndex, Le Baguette Index), Postmark (Polsia) |
 
 <sub>*OpenLoop faces a Nov 2025 class action disputing its compounded pills. Rails cut both ways.</sub>
 
