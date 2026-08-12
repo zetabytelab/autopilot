@@ -127,6 +127,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 |---|---|---|---|
 | [Guinndex](https://guinndex.ai) | "Rachel" (ElevenLabs voice + Twilio) | Phoned **3,000+ Irish pubs** for the price of a pint. 2,052 answered; national average €5.95; at least one pub cut its price after. Now a living CPI for the pint. | ~€200 |
 | [Le Baguette Index](https://lebaguetteindex.fr/) | "Brigitte" | **11,190 calls** to 5,173 French bakeries for the price of a baguette tradition (avg €1.25). Most bakers never noticed she was a machine. | ~€30 |
+| [FoodTruckBench](https://foodtruckbench.com/) | 41 LLMs vs. one human, same rules | **30 simulated days** running an Austin food truck on $2,000: 16 of 41 models went bankrupt; best AI hit +3,663% ROI — still only half the best human's score. | $2,000 (simulated) |
 
 ---
 
@@ -140,6 +141,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 |---|---|---|---|
 | [Payman](https://paymanai.com) | AI that pays humans — agent-initiated payouts | 15 | ~$770K est. revenue |
 | [RentAHuman](https://rentahuman.ai) | AI agents hire humans for physical-world tasks (MCP + escrow bounties) | 3 | YC-backed; 500K+ registered humans claimed |
+| [Naïve](https://usenaive.ai) | One config file → incorporation, cards, inboxes, phone numbers, compute (agents provision the company) | — | $28.5M Series A (Nexus); 30K+ devs claimed |
 
 ### The stack behind the index
 
