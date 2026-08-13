@@ -149,7 +149,8 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 |---|---|---|
 | **Intelligence** | The models that think, plan, and argue | Claude (Anthropic) (Polsia), OpenAI (Polsia), Cursor (Hackathon teams), Atoms (One-person companies), Sciforium (Polsia), Z.ai (GLM-5.2) (Egbe), Claude Code (Hackathon teams), OpenAI Codex (Polsia), Hermes (Nous Research) (Solo builders), OpenRouter (Solo builders) |
 | **Agent infrastructure** | Inboxes, browsers, voices & compute for agents | OpenClaw (Solo builders), NanoClaw (Solo builders), AgentMail (YC S25) (Polsia), Anchor Browser (Polsia), Blaxel (YC X25) (Polsia), MCP (Model Context Protocol) (Wordware (Sauna), Cofounder), RentAHuman (Agents via MCP (e.g. Claude)), ElevenLabs (Guinndex, Le Baguette Index) |
-| **Code & deployment** | Where agent-written code lives and ships | Vercel (Nanocorp, Cofounder), Render (Polsia), GitHub (Polsia, Cofounder, Atoms), AWS (Polsia) |
+| **Sandboxes & GPU compute** | Isolated containers and neocloud GPUs — where agent code actually runs | Modal (Coding agents), E2B (Coding agents), Daytona (Coding agents), CoreWeave (Model providers), Lambda Labs (Solo builders), RunPod (Solo builders) |
+| **Code & deployment** | Where agent-written code lives and ships | DigitalOcean (Solo builders), Akamai (Linode) (Solo builders), Vercel (Nanocorp, Cofounder), Render (Polsia), GitHub (Polsia, Cofounder, Atoms), AWS (Polsia) |
 | **Databases & backend** | State for a thousand agent-built apps | Neon (Polsia), Supabase (Cofounder) |
 | **Regulated-industry rails** | Doctors, pharmacies & compliance as an API — how one human sells in regulated markets | CareValidate (Medvi), OpenLoop Health (Medvi) |
 | **Payments & money rails** | How autopilot businesses actually get paid | Sapiom (Polsia), Stripe (Polsia, Nanocorp, Cofounder, Feltsense, Atoms) |
