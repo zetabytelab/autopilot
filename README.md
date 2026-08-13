@@ -147,14 +147,15 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 
 | Layer | What it does | Tools (used by) |
 |---|---|---|
-| **Intelligence** | The models that think, plan, and argue | Claude (Anthropic) (Polsia), OpenAI (Polsia), Cursor (Hackathon teams), Atoms (One-person companies), Sciforium (Polsia), Z.ai (GLM-5.2) (Egbe), Claude Code (Hackathon teams), OpenAI Codex (Polsia), Hermes (Nous Research) (Solo builders), OpenRouter (Solo builders) |
-| **Agent infrastructure** | Inboxes, browsers, voices & compute for agents | OpenClaw (Solo builders), NanoClaw (Solo builders), AgentMail (YC S25) (Polsia), Anchor Browser (Polsia), Blaxel (YC X25) (Polsia), MCP (Model Context Protocol) (Wordware (Sauna), Cofounder), RentAHuman (Agents via MCP (e.g. Claude)), ElevenLabs (Guinndex, Le Baguette Index) |
+| **Intelligence** | The models that think, plan, and argue | Claude (Anthropic) (Polsia), OpenAI (Polsia), Cursor (Hackathon teams), Atoms (One-person companies), Sciforium (Polsia), Z.ai (GLM-5.2) (Egbe), Claude Code (Hackathon teams), OpenAI Codex (Polsia), Hermes (Nous Research) (Solo builders), OpenRouter (Solo builders), Together AI (Solo builders), Groq (Solo builders) |
+| **Agent infrastructure** | Inboxes, browsers, voices & compute for agents | OpenClaw (Solo builders), NanoClaw (Solo builders), HappyRobot (Le Baguette Index), Soniox (Le Baguette Index), Apify (Autopilot Index (this site)), Vapi (Solo builders), Browserbase (Solo builders), Firecrawl (Solo builders), n8n (Solo builders), AgentMail (YC S25) (Polsia), Anchor Browser (Polsia), Blaxel (YC X25) (Polsia), MCP (Model Context Protocol) (Wordware (Sauna), Cofounder), RentAHuman (Agents via MCP (e.g. Claude)), ElevenLabs (Guinndex, Le Baguette Index) |
 | **Sandboxes & GPU compute** | Isolated containers and neocloud GPUs — where agent code actually runs | Modal (Coding agents), E2B (Coding agents), Daytona (Coding agents), CoreWeave (Model providers), Lambda Labs (Solo builders), RunPod (Solo builders) |
 | **Code & deployment** | Where agent-written code lives and ships | DigitalOcean (Solo builders), Akamai (Linode) (Solo builders), Vercel (Nanocorp, Cofounder), Render (Polsia), GitHub (Polsia, Cofounder, Atoms), AWS (Polsia) |
 | **Databases & backend** | State for a thousand agent-built apps | Neon (Polsia), Supabase (Cofounder) |
+| **Ops & observability** | Tracing, evals & audit trails — how one human trusts what the agents did overnight | Langfuse (Small-team CTOs) |
 | **Regulated-industry rails** | Doctors, pharmacies & compliance as an API — how one human sells in regulated markets | CareValidate (Medvi), OpenLoop Health (Medvi) |
-| **Payments & money rails** | How autopilot businesses actually get paid | Sapiom (Polsia), Stripe (Polsia, Nanocorp, Cofounder, Feltsense, Atoms) |
-| **Distribution & comms** | Ads, email, phone — reaching the real world | Meta Ads (Polsia, Nanocorp, Feltsense), Twilio (Guinndex, Le Baguette Index), Postmark (Polsia) |
+| **Payments & money rails** | How autopilot businesses actually get paid | Sapiom (Polsia), Stripe (Polsia, Nanocorp, Cofounder, Feltsense, Atoms), Polar (Solo builders) |
+| **Distribution & comms** | Ads, email, phone — reaching the real world | Resend (Solo builders), Meta Ads (Polsia, Nanocorp, Feltsense), Twilio (Guinndex, Le Baguette Index), Postmark (Polsia) |
 
 <sub>*OpenLoop faces a Nov 2025 class action disputing its compounded pills. Rails cut both ways.</sub>
 
