@@ -54,6 +54,7 @@ This index tracks that category the way self-driving was tracked: by **autonomy 
 | [Nanocorp](https://www.nanocorp.so) | **L3** | D | **1** | $193K (claimed) | One prompt → one company, zero code. YC-backed solo founder. | Revenue claim disputed by independent review |
 | [Medvi](https://medvi.io) | **L2** | **A** | **2** | $401M 2025 sales, 16.2% net (NYT-verified); tracking $1.8B in 2026 | GLP-1 telehealth built in 2 months for $20K. 16.2% net profit with a payroll of two brothers — the NYT audited the books. Runs on "telehealth-in-a-box" rails. | FDA warning letter (Feb 2026); anti-spam class action (Mar 2026); AI-fake-doctor ads exposed |
 | [Base44](https://base44.com) | **L2** | B | **9** | $3.5M at exit → $150M under Wix | Solo-owned vibe-coding platform, sold to Wix for $80M cash at 6 months old. The category's first clean exit. | — |
+| [Gamma](https://gamma.app) | **L2** | C | **52** | $100M (Nov 2025) | $100M ARR · 52 humans · profitable — the lean-AI benchmark, corroborated by TechCrunch/Sacra. | ~$1.9M ARR/human; a16z-led $2.1B valuation |
 
 *Revenue-per-human champion: Medvi at ~$200M/human. Purest autopilot story: Polsia at 1 human.*
 
@@ -104,6 +105,11 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 | [Cofounder](https://cofounder.co) | **L3** | "Run an entire company with AI" | USV-backed; thesis-defining but pre-metrics |
 | [Caffeine](https://caffeine.ai) | **L3** | "The self-writing internet" | Pre-metrics |
 | [Atoms](https://atoms.dev) | **L3** | AI business team that builds, deploys and markets your product | Products shipping; no economics disclosed |
+| [Moritz](https://moritzlegal.com) | **L3** | AI-native law firm — agents draft, ~10 lawyers review the final 20% at flat fees. | $9M seed press-verified; $2B–$3B deal-value claims self-reported; no ARR disclosed |
+| [Minimal](https://gominimal.ai) | **L3** | AI support agents resolve up to 90% of e-commerce tickets — 7-figure ARR on 3 humans. | $3.6M seed press-verified; ARR self-reported |
+| [Lunavo](https://lunavo.ai) | **L3** | AI workforce automating 85% of freight-forwarder back-office ops (DACH). | All metrics self-reported; YC standard deal only, no external round |
+| [Beacon Health](https://www.beaconhealth.ai) | **L3** | "AI employees" inside the EHR for value-based primary care — live with a 40,000-patient IPA. | YC-verified traction claim; pre-revenue-disclosure |
+| [Retell AI](https://www.retellai.com) | **L2** | Voice agents by API — ~$60M annualized (est.) on ~$5M raised; headcount disputed 21–143. | ARR is analyst estimate; ARR-per-human unreliable due to disputed headcount |
 
 ---
 
@@ -125,9 +131,12 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 
 | Experiment | Agent | The legwork | Cost |
 |---|---|---|---|
-| [Guinndex](https://guinndex.ai) | "Rachel" (ElevenLabs voice + Twilio) | Phoned **3,000+ Irish pubs** for the price of a pint. 2,052 answered; national average €5.95; at least one pub cut its price after. Now a living CPI for the pint. | ~€200 |
+| [Guinndex](https://guinndex.ai) | "Rachel" (ElevenLabs voice + Twilio) | Phoned **3,000+ Irish pubs** for the price of a pint (avg €5.95); then **35,659 UK pubs** (6,544 verified prices, avg £5.82). Only 4% of UK publicans detected the AI. A living CPI for the pint. | ~€200 (IE) + ~£500 (UK) |
 | [Le Baguette Index](https://lebaguetteindex.fr/) | "Brigitte" | **11,190 calls** to 5,173 French bakeries for the price of a baguette tradition (avg €1.25). Most bakers never noticed she was a machine. | ~€30 |
 | [FoodTruckBench](https://foodtruckbench.com/) | 41 LLMs vs. one human, same rules | **30 simulated days** running an Austin food truck on $2,000: 16 of 41 models went bankrupt; best AI hit +3,663% ROI — still only half the best human's score. | $2,000 (simulated) |
+| [SliceDex](https://slicedex.com) | "Heather" (ElevenLabs + Twilio; Claude parses transcripts) | Called **1,766 NYC pizza shops** for the price of a plain cheese slice — 838 priced, avg $3.42, range $1–$6 across all five boroughs. | Not disclosed |
+| [Flat White Index](https://flatwhiteindex.com.au) | "Mia" | Called **847 independent Sydney cafés** for the price of a regular flat white — avg A$5.80, mapped by suburb, re-surveyed monthly, data open under CC BY 4.0. | Not disclosed |
+| [London Coffee Index](https://flatwhiteindex.thedx.ai) | Unnamed voice agents by TheDX | Contacted **2,288 independent London coffee shops** across all 33 boroughs — 416 flat-white prices captured, median £3.50, Westminster priciest. | Not disclosed |
 
 ---
 
