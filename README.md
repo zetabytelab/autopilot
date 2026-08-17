@@ -49,7 +49,7 @@ This index tracks that category the way self-driving was tracked: by **autonomy 
 
 | Company | Level | Evidence | Humans | Revenue | The story | Flags |
 |---|---|---|---|---|---|---|
-| [Polsia](https://polsia.com) | **L3** | C | **1** | ~$10M | AI runs the company while the founder sleeps; raised $30M at $250M with zero employees. Cut its $1.2M/mo Anthropic bill to ~$100K via open-source inference. | Figures founder-reported; margin math disputed |
+| [Polsia](https://polsia.com) | **L3** | C | **1** | ~$10M | AI runs the company while the founder sleeps; raised $30M at $250M with zero employees. Cut its $1.2M/mo Anthropic bill to ~$100K via open-source inference. | Figures founder-reported; margin math disputed; Aug 2026 'hollow shell' allegations disputed — ARR breakdown shows ~1/3 non-recurring |
 | [Boardy](https://boardy.ai) | **L3** | C | — | — | AI superconnector that networks on your behalf — raised its round without investors seeing a deck or speaking to a human. | — |
 | [Nanocorp](https://www.nanocorp.so) | **L3** | D | **1** | $193K (claimed) | One prompt → one company, zero code. YC-backed solo founder. | Revenue claim disputed by independent review |
 | [Medvi](https://medvi.io) | **L2** | **A** | **2** | $401M 2025 sales, 16.2% net (NYT-verified); tracking $1.8B in 2026 | GLP-1 telehealth built in 2 months for $20K. 16.2% net profit with a payroll of two brothers — the NYT audited the books. Runs on "telehealth-in-a-box" rails. | FDA warning letter (Feb 2026); anti-spam class action (Mar 2026); AI-fake-doctor ads exposed |
