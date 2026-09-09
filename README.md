@@ -104,7 +104,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 | [Egbe](https://egbe.ai) | **L4** | "The zero-employee company. You found it. AI runs it." — AI co-founder ships the product, wires Stripe, runs ads | Founder Nikolay Vyahhi (Stepik) pre-tested with 100 AI-run e-commerce startups on Mac minis; claims 8× token growth in a month on GLM-5.2 (self-reported). |
 | [Cofounder](https://cofounder.co) | **L3** | "Run an entire company with AI" | USV-backed; thesis-defining but pre-metrics |
 | [Caffeine](https://caffeine.ai) | **L3** | "The self-writing internet" | Pre-metrics |
-| [Atoms](https://atoms.dev) | **L3** | AI business team that builds, deploys and markets your product | Products shipping; no economics disclosed |
+| [Atoms](https://atoms.dev) | **L3** | One founder directs an AI team across research, building, deployment, payments and customer acquisition | Working builds reviewed; founder approvals remain; autonomous revenue unverified |
 | [Moritz](https://moritzlegal.com) | **L3** | AI-native law firm — agents draft, ~10 lawyers review the final 20% at flat fees. | $9M seed press-verified; $2B–$3B deal-value claims self-reported; no ARR disclosed |
 | [Minimal](https://gominimal.ai) | **L3** | AI support agents resolve up to 90% of e-commerce tickets — 7-figure ARR on 3 humans. | $3.6M seed press-verified; ARR self-reported |
 | [Lunavo](https://lunavo.ai) | **L3** | AI workforce automating 85% of freight-forwarder back-office ops (DACH). | All metrics self-reported; YC standard deal only, no external round |
@@ -161,7 +161,7 @@ So the scouting question for each company isn't "how few people?" — it's **"wh
 | **Sandboxes & GPU compute** | Isolated containers and neocloud GPUs — where agent code actually runs | Modal (Coding agents), E2B (Coding agents), Daytona (Coding agents), CoreWeave (Model providers), Lambda Labs (Solo builders), RunPod (Solo builders) |
 | **Code & deployment** | Where agent-written code lives and ships | DigitalOcean (Solo builders), Akamai (Linode) (Solo builders), Vercel (Nanocorp, Cofounder), Render (Polsia), GitHub (Polsia, Cofounder, Atoms), AWS (Polsia) |
 | **Databases & backend** | State for a thousand agent-built apps | Neon (Polsia), Supabase (Cofounder) |
-| **Ops & observability** | Tracing, evals & audit trails — how one human trusts what the agents did overnight | Langfuse (Small-team CTOs) |
+| **Ops & observability** | Tracing, evals & audit trails — how one human trusts what the agents did overnight | Langfuse (Small-team CTOs), Is Agentic (Autopilot Index (this site)) |
 | **Regulated-industry rails** | Doctors, pharmacies & compliance as an API — how one human sells in regulated markets | CareValidate (Medvi), OpenLoop Health (Medvi) |
 | **Payments & money rails** | How autopilot businesses actually get paid | Sapiom (Polsia), Stripe (Polsia, Nanocorp, Cofounder, Feltsense, Atoms), Polar (Solo builders) |
 | **Distribution & comms** | Ads, email, phone — reaching the real world | Resend (Solo builders), Meta Ads (Polsia, Nanocorp, Feltsense), Twilio (Guinndex, Le Baguette Index), Postmark (Polsia) |
